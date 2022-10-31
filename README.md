@@ -11,6 +11,17 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
   </ul>
 </table>
 
+### Feature Labels used:
+<table>
+  <ul>
+    <li>Carat Weight</li>
+    <li>Cut Quality</li>
+    <li>Color Quality</li>
+    <li>Clarity Level</li>
+    <li>Dimensions (length, width, height)</li>
+  </ul>
+</table>
+
 ### ML Libraries used:
 <table>
   <ul>
