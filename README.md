@@ -1,8 +1,40 @@
 # Diamond Price Predictor
-Diamond Price Prediction using ML
+Diamond Price Prediction using Machine Learning in Python
 
-## Description:
+### Description:
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
+
+### IDE used:
+<table>
+  <ul>
+    <li>Jupyter Notebook</li>
+  </ul>
+</table>
+
+### ML Libraries used:
+<table>
+  <ul>
+    <li>NumPy</li>
+    <li>Pandas</li>
+    <li>Seaborn</li>
+    <li>Matplotlib</li>
+    <li>scikit-learn</li>
+  </ul>
+</table>
+
+## ML Model used:
+<table>
+  <ul>
+    <li>Random Forest Regressor</li>
+  </ul>
+</table>
+
+### Visualization Framework:
+<table>
+  <ul>
+    <li>Streamlit</li>
+  </ul>
+</table>
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/40735736/198985258-d164c587-c67e-44f1-ae4d-5bd1feb133b5.png)
