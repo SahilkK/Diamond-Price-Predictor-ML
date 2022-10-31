@@ -69,7 +69,7 @@ X_train = scaler.transform(X_train)
 X_test = scaler.transform(X_test)
 
 #Loading saved ML model .model file
-rf = jb.load('diam_model.model')
+rf = jb.load('diamond_model.model')
 
 # Transforming to Scaling level
 df = scaler.transform([df])
