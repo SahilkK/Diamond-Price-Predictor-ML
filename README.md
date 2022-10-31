@@ -33,7 +33,7 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
   </ul>
 </table>
 
-## ML Model used:
+### ML Model used:
 <table>
   <ul>
     <li>Random Forest Regressor</li>
@@ -47,5 +47,5 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
   </ul>
 </table>
 
-## Output:
+### Output Screenshot:
 ![image](https://user-images.githubusercontent.com/40735736/198985258-d164c587-c67e-44f1-ae4d-5bd1feb133b5.png)
